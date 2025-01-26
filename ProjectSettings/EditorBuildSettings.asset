@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/SoundEffect.unity
+    guid: 8712bebbda74a4942bfeeef34da90597
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: bb6e35f1df37d9c4abd052694965a6ad
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 24618bf2ce11f5f44bcd987396b997c5
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1.unity
+    guid: b17ab6b3eb4d97549bfd7fe4dc77efa6
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1AlphA.unity
+    guid: f9264bd41b3539d4890cfd1fa0e2e7c6
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1AlphB.unity
+    guid: 2bab7b717c441564e92e4e7e385edbc6
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1Alphc.unity
+    guid: 803bf3381240d034fb796919f4e199b4
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1Alphd.unity
+    guid: 9126ceb7c959f4e46a71be54dc4c03cc
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1Alphe.unity
+    guid: 54e40b1441e7e49418e5a5554e2c716d
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1Alphf.unity
+    guid: 5e45775b9c99c354480def46e81a0a5c
+  - enabled: 1
+    path: Assets/Scenes/AlpaLevel1/Level1Alphg.unity
+    guid: b5e77d73934a6bf41939e3f13dde5f89
+  - enabled: 1
+    path: Assets/Scenes/QuizLevel1.unity
+    guid: 2ec8ed081a2eed6468b4e72df3157774
+  - enabled: 1
+    path: Assets/Scenes/Quiz1.unity
+    guid: eab7bf50c2ee3cf48a5d5d412fd5903f
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2.unity
+    guid: 1be0b64f187d47c4ebc1831f0b2e8cc5
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Q21.unity
+    guid: c0ff7f4213b98914e9447adec3d6371f
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Q23.unity
+    guid: 31991caf78006d74ba6cdc8c3f7b0dc6
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Q24.unity
+    guid: d9454ae4a62499f4ea7b4d72cb50f017
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Q25.unity
+    guid: 5d68836c7ef8aac4880499e3ae6ac4ae
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn5.unity
+    guid: afc7eae974a6cf54dbfb8855078f3d75
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn6.unity
+    guid: 72e758e67a6604f4ca063f88f90c6a1e
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn10.unity
+    guid: f45b4fe878ca0d2498e3977e2429d958
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn7.unity
+    guid: cb50d785b7ef0554ab4a1414d165dc39
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn9.unity
+    guid: a5d260f069381b44d8ea180a79431eea
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Qn8.unity
+    guid: c113a6215ef3aea4d935131b1bcbcc44
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphh.unity
+    guid: 6eb350c59e9fd47488e9f815204d28dc
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphi.unity
+    guid: 3012e1726233f234fbf180d5d7957632
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphj.unity
+    guid: 78ac7b32f06ee9141a5eef69e0a1a8b9
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphk.unity
+    guid: ee3104bf81014d34ebb6ab6e4452d075
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2AlphL.unity
+    guid: 927de64fab6583b46ac2b7a70965abf1
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphm.unity
+    guid: adf819bbcebf77f42bd0025fec55302c
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel2/Level2Alphn.unity
+    guid: 92acb1b8b3a26714396d7efdd94ab5ba
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3Alpht.unity
+    guid: 056cd48d1cc0dde4abf2470ff7396aae
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3Alpho.unity
+    guid: a28eda6ec39134841842d4b73fe8eefc
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3Alphp.unity
+    guid: 58b49037cb695b140814dfeb7623eaf2
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3Alphq.unity
+    guid: 71a297f6e204f1049a2ebd903bbd262d
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3AlphR.unity
+    guid: ef1793d413efdde45a11514ddb2401db
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3Alphs.unity
+    guid: c02167627a3eee14da73f88e0fc253fb
+  - enabled: 1
+    path: Assets/Scenes/Quiz21.unity
+    guid: 2d53ba1c4a1ff4c45bfc4bfe06c9f472
+  - enabled: 1
+    path: Assets/Scenes/Quiz2.unity
+    guid: cb362c4dd08bb7a42bc21c4ed0b533ea
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/CountNumber.unity
+    guid: 3312c0c75934b5a498b811ddc87a8b8f
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level1n1.unity
+    guid: afb82052901f0a841ba971ee14a5f226
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level1n2.unity
+    guid: 33632656ea475f14ead9a51ee13b9583
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level1n3.unity
+    guid: 251c534fa7d34d045b8f19f392842e49
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level1n4.unity
+    guid: 933222e38943a3a4abbabf5c4ec99249
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level1n5.unity
+    guid: 41920bbc03f12f845b224c4afae08446
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level2n6.unity
+    guid: 9d6204ae9400f384c99f10197b012b4b
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level2n7.unity
+    guid: bbdaf2a54ef51d54284279226048d7da
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level2n8.unity
+    guid: 0f5bd1a70a53af14099d29f2354fbf66
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level2n9.unity
+    guid: 7e5c0742b45f49d49a9d8ef50e436e31
+  - enabled: 1
+    path: Assets/Scenes/NumberScenes/level2n10.unity
+    guid: 9e2bdecdf2084404f969f4e056398230
+  - enabled: 1
+    path: Assets/Scenes/SceneForVedios/vidA.unity
+    guid: eddb904456e650e4196e4ad4257ab6fe
+  - enabled: 1
+    path: Assets/Scenes/SceneForVedios/vidB.unity
+    guid: 6fcdc2027e332f04799e7f7462620859
+  - enabled: 1
+    path: Assets/Scenes/SceneForVedios/vidc.unity
+    guid: 9f0cb12ec84ec7b4d99d3161f31cd000
+  - enabled: 1
+    path: Assets/Scenes/SceneForVedios/vide.unity
+    guid: bf180ef35191c954c8d5af6b3eb9897a
+  - enabled: 1
+    path: Assets/Scenes/SceneForVedios/vidd.unity
+    guid: 6dfe7e2ed8cbada459e4f9bbe75596ad
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level3.unity
+    guid: 23e374150d157e844909dc4956007dde
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphu.unity
+    guid: e4f82c1b66752c54c8a15b91ea491a8e
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphv.unity
+    guid: 2fae4a9c83e2c4443b7be1ee65065c96
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphw.unity
+    guid: 956bd41ad61be2245a29179a7695c8a3
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphx.unity
+    guid: fe6f4279cf41a5140a1d2753dcc96a89
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphy.unity
+    guid: 247147d00f422bb43848940d0d13e3f2
+  - enabled: 1
+    path: Assets/Scenes/AlphLevel3/Level4Alphz.unity
+    guid: 17388137bafcc594ab7f18c9e74e8abe
+  - enabled: 1
+    path: Assets/Scenes/certi.unity
+    guid: 4f6c57b2760221447863ec3ec11530fc
+  - enabled: 1
+    path: Assets/Scenes/Quizes/CompleteQuiz.unity
+    guid: aa5d7e870092c5f42a91e41b1efbc7de
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForA.unity
+    guid: 1187558a5b20a9e40b83618c2ac26ac2
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForD.unity
+    guid: e817e902d9a2a014bbe1dc68fa3ad21c
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForG.unity
+    guid: 00351979e44a56947ae08948614dda61
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForNum1.unity
+    guid: 57616585f6cca514091da8cc06800637
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForNum2.unity
+    guid: 77648474f3e860a4c9b6f8a7274b3a06
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForNum3.unity
+    guid: 136faff06664b7041b5c620e9532cf13
+  - enabled: 1
+    path: Assets/Scenes/Quizes/QuizForNum4.unity
+    guid: a58014ef0d44b9946b2d877f380a075e
+  - enabled: 1
+    path: Assets/Scenes/CongFroLevel1.unity
+    guid: 0206975b37ce51544bfc21e10c72a24c
+  - enabled: 1
+    path: Assets/Scenes/Quizes/Q22.unity
+    guid: 666dfa342ab2d034384fa995cea5fc7e
+  m_configObjects: {}

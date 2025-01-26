@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|d:\\4csssssssssssss\\university\\anim\\english learining platform\\assets\\soundmang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\soundmang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\assets\\scripts\\soundmangercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmangercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\assets\\scripts\\sounde1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounde1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\assets\\scripts\\backmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\assets\\scripts\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Loadstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Loadstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\LoadScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LoadScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\BackMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BackMusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\VolumeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\VolumeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\SoundE1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SoundE1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\Sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30152528-7E08-4AEE-741D-2095E018E875}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Sound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "soundMang.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\soundMang.cs",
+              "RelativeDocumentMoniker": "Assets\\soundMang.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\soundMang.cs*",
+              "RelativeToolTip": "Assets\\soundMang.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:39:06.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoundMangerCode.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\SoundMangerCode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundMangerCode.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\SoundMangerCode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundMangerCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:36:31.53Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackMusic.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\BackMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackMusic.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\BackMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:15:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VolumeController.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\VolumeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeController.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\VolumeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:02:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundE1.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\SoundE1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundE1.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\SoundE1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundE1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:02:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadScene.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadScene.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:18:18.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadScene.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\LoadScene.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadScene.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\LoadScene.cs",
+              "RelativeToolTip": "Assets\\LoadScene.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:43:33.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loadstart.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Loadstart.cs",
+              "RelativeDocumentMoniker": "Assets\\Loadstart.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Loadstart.cs",
+              "RelativeToolTip": "Assets\\Loadstart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:50:38.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sound1.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Sound1.cs",
+              "RelativeDocumentMoniker": "Assets\\Sound1.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Sound1.cs",
+              "RelativeToolTip": "Assets\\Sound1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:53:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BackMusic.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\BackMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\BackMusic.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\BackMusic.cs",
+              "RelativeToolTip": "Assets\\BackMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:07:29.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VolumeController.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\VolumeController.cs",
+              "RelativeDocumentMoniker": "Assets\\VolumeController.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\VolumeController.cs",
+              "RelativeToolTip": "Assets\\VolumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:02:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SoundE1.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\SoundE1.cs",
+              "RelativeDocumentMoniker": "Assets\\SoundE1.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\SoundE1.cs",
+              "RelativeToolTip": "Assets\\SoundE1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:53:13.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sound1.cs",
+              "DocumentMoniker": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\Sound1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sound1.cs",
+              "ToolTip": "D:\\4Csssssssssssss\\University\\anim\\English Learining PlatForm\\Assets\\Scripts\\Sound1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sound1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:41:39.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
